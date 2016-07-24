@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1388534400000,
+        "author": "Pete Hunt",
+        "text": "Hey there!"
+    },
+    {
+        "id": 1420070400000,
+        "author": "Paul O’Shannessy",
+        "text": "React is *great*!"
+    },
+    {
+        "id": 1420077770,
+        "author": "Paul Tanner",
+        "text": "React is **cool**"
+    },
+    {
+        "id": 1420770,
+        "author": "Danny Tanner",
+        "text": "lame"
+    },
+    {
+        "id": 1469217241438,
+        "author": "Sandy Smith",
+        "text": "so cool"
+    },
+    {
+        "id": 1469217255740,
+        "author": "Timmy McGuire",
+        "text": "Sup"
+    },
+    {
+        "id": 1469383994875,
+        "author": "Sally Fielding",
+        "text": "I loved it!"
+    },
+    {
+        "id": 1469385490151,
+        "author": "Sandy Smith",
+        "text": "Loving it!"
+    },
+    {
+        "id": 1469385621561,
+        "author": "Andy Thompson",
+        "text": "Hate it."
+    }
+]

@@ -1,0 +1,21 @@
+{
+  "name": "react-on-github",
+  "version": "1.0.0",
+  "description": "Basic React App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "React",
+    "Learning",
+    "React",
+    "Node"
+  ],
+  "author": "Katie Owen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
